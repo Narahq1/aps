@@ -1,8 +1,5 @@
 # Sistema de Gestão Acadêmica (SGA) - API REST
 
-**Atividade Prática Supervisionada (APS) - POO Java**  
-**EEEP Alfredo Nunes de Melo - Técnico em Desenvolvimento de Sistemas**
-
 ---
 
 ## 📋 Sobre o Projeto
@@ -125,17 +122,3 @@ Use **Postman** ou **Insomnia** para testar os endpoints:
 - **@Service**: Marca a classe como camada de serviço (lógica de negócio)
 - **JpaRepository**: Interface que fornece métodos CRUD prontos
 - **HTTP Status Codes**: 200 OK, 201 Created, 204 No Content, 404 Not Found, 400 Bad Request
-
-## 👨‍💻 Autor
-
-**Estudante**: ___________________________________  
-**Curso**: Técnico em Desenvolvimento de Sistemas  
-**Disciplina**: Programação Orientada a Objetos  
-**Professor**: Daniel Saraiva  
-**Data de Entrega**: 22/12/2025
-
----
-
-## 📄 Licença
-
-Projeto acadêmico desenvolvido para fins educacionais.
